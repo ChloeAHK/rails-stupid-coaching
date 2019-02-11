@@ -1,0 +1,18 @@
+$gray: #F4F4F4;
+
+body {
+  background: $gray;
+}
+a {
+  color: grey;
+  &:hover {
+    color: black;
+  text-decoration: none
+  }
+}
+.banner {
+  background: red;
+  h1 {
+    font-size: 50px;
+  }
+}
